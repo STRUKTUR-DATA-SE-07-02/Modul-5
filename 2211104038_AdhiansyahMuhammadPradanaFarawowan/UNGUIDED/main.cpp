@@ -1,12 +1,12 @@
 #include "singlelist.cpp"
 
 // Baiknya disini aja
-int count_elements(List &L) {
+int sum_info(List &L) {
     ElmList *current = L.First;
     int count = 0;
     while (current != nullptr)
     {
-        count = count + 1;
+        count = count + current->info;
         current = current->next;
     }
     
@@ -43,7 +43,7 @@ int main()
     // UNGUIDED 2
 
     // UNGUIDED 3
-    std::cout << "Total info from the list is " << count_elements(L) << '\n';
+    std::cout << "Total info from the list is " << sum_info(L) << '\n';
     // UNGUIDED 3
     
     return 0;
