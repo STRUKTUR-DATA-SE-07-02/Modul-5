@@ -139,7 +139,7 @@ int main() {
     int result = find_element(head, x);
 
     if (result >= 0) {
-        std::cout << "The data is located at position " << result << '\n';
+        std::cout << "The data is located at index " << result << '\n';
     } else {
         std::cout << "The data is not found" << '\n';
     }
