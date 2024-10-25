@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1729770672 source:d:\2311104053_marvel sanjaya setiawan\05_single_linked_list_bagian_2\unguided\main.cpp
+	<iostream>
+	"singlelist.h"
+	"singlelist.cpp"
+
+1729770532 d:\2311104053_marvel sanjaya setiawan\05_single_linked_list_bagian_2\unguided\singlelist.h
+	<iostream>
+
+1729770542 d:\2311104053_marvel sanjaya setiawan\05_single_linked_list_bagian_2\unguided\singlelist.cpp
+	"singlelist.h"
+	<iostream>
+
