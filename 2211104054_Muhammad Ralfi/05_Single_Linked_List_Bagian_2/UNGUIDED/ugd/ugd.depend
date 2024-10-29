@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1730220647 source:d:\std_muhammad_ralfi_2211104054\05_single_linked_list_bagian_2\unguided\ugd\main.cpp
+	"singlelist.h"
+
+1730222049 d:\std_muhammad_ralfi_2211104054\05_single_linked_list_bagian_2\unguided\ugd\singlelist.h
+	<stdio.h>
+	<stdlib.h>
+
+1730221905 source:d:\std_muhammad_ralfi_2211104054\05_single_linked_list_bagian_2\unguided\ugd\singlelist.cpp
+	"singlelist.h"
+
