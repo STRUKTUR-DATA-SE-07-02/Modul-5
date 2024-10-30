@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1730261250 source:d:\semester 3\praktikum struktur data\unguided1.5\main.cpp
+	<iostream>
+	"singlelist.h"
+
+1730261250 d:\semester 3\praktikum struktur data\unguided1.5\include\singlelist.h
+
+1730261250 source:d:\semester 3\praktikum struktur data\unguided1.5\src\singlelist.cpp
+	<iostream>
+	"singlelist.h"
+
