@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1730281787 source:c:\users\pongo\onedrive\dokumen\tugas semester 3\tugas prkatikum struktur data\unguided 5\nomor 4 unguided\main.cpp
+	"singlelist.h"
+	<iostream>
+
+1730281787 c:\users\pongo\onedrive\dokumen\tugas semester 3\tugas prkatikum struktur data\unguided 5\nomor 4 unguided\singlelist.h
+
+1730281787 source:c:\users\pongo\onedrive\dokumen\tugas semester 3\tugas prkatikum struktur data\unguided 5\nomor 4 unguided\singlist.cpp
+	"singlelist.h"
+	<iostream>
+
